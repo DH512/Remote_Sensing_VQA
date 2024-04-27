@@ -1,0 +1,21 @@
+
+/* style.css */
+body {
+    /* Set the URL of your desired background image */
+    background-image: url('back.png');
+
+    /* Make sure the image covers the entire background */
+    background-size: cover;
+
+    /* Keep the background image fixed during scrolling */
+    background-attachment: fixed;
+
+    /* Set the background image to start from the top-left corner */
+    background-position: top left;
+
+    /* Ensure the background does not repeat */
+    background-repeat: no-repeat;
+
+    /* Set a background color that will be displayed while the image is loading or if the image fails to load */
+    background-color: #ffffff;
+}

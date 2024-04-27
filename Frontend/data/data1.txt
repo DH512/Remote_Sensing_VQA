@@ -1,0 +1,11 @@
+Image Context is :
+Answer: an aerial view of a bridge over a body of water
+
+Question: Is the given Image a Urban Landscape or Agricultural ?
+Answer: urban landscape
+
+Question: Is there any water body present in the image?
+Answer: yes it is
+
+Question: Is there any Roads and Transportation Networks visible in the image?
+Answer: yes and no
